@@ -1,1 +1,3 @@
 # BinaryTree
+
+Capturas de Ejecución: 
